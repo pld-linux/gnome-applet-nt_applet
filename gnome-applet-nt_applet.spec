@@ -15,7 +15,6 @@ BuildRequires:	gettext-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Obsoletes:	nt_applet
 
-%define		_prefix 	/usr/X11R6/
 %define		_sysconfdir	/etc/X11/GNOME
 
 %description
