@@ -38,8 +38,6 @@ rm -f missing
 %configure
 %{__make}
 
-gzip -9nf AUTHORS NEWS README
-
 %install
 rm -rf $RPM_BUILD_ROOT
 
@@ -58,7 +56,7 @@ rm -rf $RPM_BUILD_ROOT
 
 %files -f nt_applet.lang
 %defattr(644,root,root,755)
-%doc *.gz
+%doc AUTHORS NEWS README
 %attr(755,root,root) %{_bindir}/nt_applet
 %{_sysconfdir}/CORBA/servers/nt_applet.gnorba
 %{_datadir}/applets/Network/nt_applet.desktop
