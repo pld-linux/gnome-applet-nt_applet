@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		X11/Applications/Networking
 Source0:	http://www.krasu.ru/soft/chuchelo/files/nt_applet-%{version}.tar.gz
+# Source0-md5:	1fbdf80b0730fe104b1822930c171caf
 Patch0:		%{name}-fix_desktop.patch
 URL:		http://www.krasu.ru/soft/chuchelo/
 BuildRequires:	autoconf
