@@ -2,9 +2,9 @@ Summary:	applet for GNOME panel for WebDownloader for X
 Summary(pl):	aplet panelu GNOME dla WebDownloadera pod X
 Name:		gnome-applet-nt_applet
 Version:	1.2.3
-Release:	1
+Release:	2
 License:	GPL
-Group:		X11/Application/Networking
+Group:		X11/Applications/Networking
 Source0:	http://www.krasu.ru/soft/chuchelo/files/nt_applet-%{version}.tar.gz
 Patch0:		%{name}-fix_desktop.patch
 URL:		http://www.krasu.ru/soft/chuchelo/
