@@ -1,0 +1,10 @@
+--- nt_applet-1.2.2/src/nt_applet.desktop~	Mon May 13 22:03:13 2002
++++ nt_applet-1.2.2/src/nt_applet.desktop	Mon May 13 22:03:13 2002
+@@ -4,6 +4,6 @@
+ Comment=GNOME panel applet for WebDownloader for X
+ Comment[ru]=Апплет панели GNOME для Качалки для Иксов
+ Exec=nt_applet --activate-goad-server=nt_applet
+-Icon=nt.xpm
++Icon=nt.png
+ Terminal=0
+ Type=Application
