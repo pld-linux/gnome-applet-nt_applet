@@ -4,7 +4,7 @@ Name:		gnome-applet-nt_applet
 Version:	1.2.3
 Release:	1
 License:	GPL
-Group:		X11/Application/Networking
+Group:		X11/Applications/Networking
 Source0:	http://www.krasu.ru/soft/chuchelo/files/nt_applet-%{version}.tar.gz
 Patch0:		%{name}-fix_desktop.patch
 URL:		http://www.krasu.ru/soft/chuchelo/
