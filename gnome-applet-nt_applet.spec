@@ -1,5 +1,5 @@
 Summary:	Applet for GNOME panel for WebDownloader for X
-Summary(pl):	Aplet panelu GNOME dla WebDownloadera pod X
+Summary(pl.UTF-8):   Aplet panelu GNOME dla WebDownloadera pod X
 Name:		gnome-applet-nt_applet
 Version:	1.2.3
 Release:	1
@@ -21,8 +21,8 @@ Obsoletes:	nt_applet
 %description
 nt_applet is GNOME panel applet for manage WebDownloader for X.
 
-%description -l pl
-nt_applet jest apletem panelu GNOME zarz±dzaj±cym WebDownloaderem dla
+%description -l pl.UTF-8
+nt_applet jest apletem panelu GNOME zarzÄ…dzajÄ…cym WebDownloaderem dla
 X.
 
 %prep
