@@ -12,7 +12,7 @@ URL:		http://www.krasu.ru/soft/chuchelo/
 BuildRequires:	autoconf
 BuildRequires:	automake
 BuildRequires:	gnome-core-devel
-BuildRequires:	gettext-devel
+BuildRequires:	gettext-tools
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Obsoletes:	nt_applet
 
