@@ -27,7 +27,7 @@ X.
 
 %prep
 %setup -q -n nt_applet-%{version}
-%patch0 -p1
+%patch -P0 -p1
 
 %build
 rm -f missing
